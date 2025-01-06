@@ -4,5 +4,5 @@
 
 Joy Ride Runner is a fascinating endless 2D runner in the style of Pixel Art.
 
-##Controls
+## Controls
 WASD keys or touch control
